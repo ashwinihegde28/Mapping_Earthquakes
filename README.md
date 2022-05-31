@@ -1,4 +1,4 @@
-# Mapping_Earthquakes - To traverse and retrieve the earthquake data using javascript d3 and leaflet libraries and plot the data on a Mapbox map through API requests.
+# Mapping_Earthquakes
 
 ## Project Overview :
 
